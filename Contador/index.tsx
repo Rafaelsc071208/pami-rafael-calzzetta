@@ -1,0 +1,1 @@
+import Cont from './components/Contador';
